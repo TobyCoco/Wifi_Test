@@ -1,0 +1,116 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2018 The Android Open Source Project
+4
+5 Licensed under the Apache License, Version 2.0 (the "License");
+6 you may not use this file except in compliance with the License.
+7 You may obtain a copy of the License at
+8
+9     http://www.apache.org/licenses/LICENSE-2.0
+10
+11 Unless required by applicable law or agreed to in writing, software
+12 distributed under the License is distributed on an "AS IS" BASIS,
+13 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14 See the License for the specific language governing permissions and
+15 limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.wifirttscan"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="29"
+23-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="32" />
+24-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+25
+26    <uses-feature android:name="android.hardware.wifi.rtt" />
+26-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:23:5-62
+26-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:23:19-59
+27
+28    <!-- Permissions required for Wifi RTT. -->
+29    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+29-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:26:5-76
+29-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:26:22-73
+30    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+30-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:27:5-75
+30-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:27:22-73
+31    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+31-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:28:5-78
+31-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:28:22-76
+32    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+32-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:29:5-78
+32-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:29:22-76
+33    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+33-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:30:5-78
+33-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:30:22-76
+34    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+34-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:31:5-80
+34-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:31:22-78
+35
+36    <application
+36-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:34:5-66:19
+37        android:allowBackup="true"
+37-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:35:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\3ae5ae42bea64813a9af0e49323375c9\core-1.0.0-beta01\AndroidManifest.xml:22:18-86
+39        android:debuggable="true"
+40        android:extractNativeLibs="false"
+41        android:icon="@mipmap/ic_launcher"
+41-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:36:9-43
+42        android:label="@string/app_name"
+42-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:37:9-41
+43        android:roundIcon="@mipmap/ic_launcher_round"
+43-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:38:9-54
+44        android:supportsRtl="true"
+44-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:39:9-35
+45        android:testOnly="true"
+46        android:theme="@style/CustomAppTheme" >
+46-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:40:9-46
+47        <activity
+47-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:42:9-52:20
+48            android:name="com.example.android.wifirttscan.MainActivity"
+48-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:43:13-41
+49            android:exported="true"
+49-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:46:13-36
+50            android:label="@string/app_name"
+50-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:44:13-45
+51            android:theme="@style/CustomAppTheme" >
+51-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:45:13-50
+52            <intent-filter>
+52-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:47:13-51:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:48:17-69
+53-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:48:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:50:17-77
+55-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:50:27-74
+56            </intent-filter>
+57        </activity>
+58        <activity
+58-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:54:9-59:20
+59            android:name="com.example.android.wifirttscan.LocationPermissionRequestActivity"
+59-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:55:13-62
+60            android:label="@string/title_activity_location_permission_request"
+60-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:56:13-79
+61            android:parentActivityName="com.example.android.wifirttscan.MainActivity"
+61-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:57:13-55
+62            android:theme="@style/CustomAppTheme" >
+62-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:58:13-50
+63        </activity>
+64        <activity
+64-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:61:9-65:20
+65            android:name="com.example.android.wifirttscan.AccessPointRangingResultsActivity"
+65-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:61:19-68
+66            android:label="@string/title_activity_access_point_ranging_results"
+66-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:62:13-80
+67            android:parentActivityName="com.example.android.wifirttscan.MainActivity"
+67-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:63:13-55
+68            android:theme="@style/CustomAppTheme" >
+68-->C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:64:13-50
+69        </activity>
+70    </application>
+71
+72</manifest>

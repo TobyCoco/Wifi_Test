@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:17:1-67:12
+INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:17:1-67:12
+INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:17:1-67:12
+INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:17:1-67:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\A\.gradle\caches\transforms-2\files-2.1\79874ac7b472dbcc925cf1fa02538be6\constraintlayout-2.0.0-alpha1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\dfede6d08b30c4710d234467b391d9d6\material-1.0.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\e3b9afe9db518106859d1f4e5cc90261\appcompat-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\1d5fb5272953866d85fd57f38eed9a6d\fragment-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\8359157458ce0c2d0efe8016b0279bcd\vectordrawable-animated-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\a5c270a0df62ff154833e63b21241244\recyclerview-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\d12e582391c1b1daf027c8a3c325f886\legacy-support-core-ui-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\b954500195b9d92077bcd451a78b8bf4\legacy-support-core-utils-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\e785fe7d1d0af79a0988af1da8f9ee15\vectordrawable-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\f93b2ac68aa48975eaaaad4497879c1c\transition-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\80f6a620d58bce7f623119438a164ba7\loader-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\1407617b5ad3f29a1fb4fe7e83583238\viewpager-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\3d011a9727d46a2a6008b23da50c0ecb\coordinatorlayout-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\daea5ee3a8942e5c0b815d94bbb64669\drawerlayout-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\ae9e6f21c81f638fbb52b73a1200653e\slidingpanelayout-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\6cf27910fbea420a42a601f0fce69fd5\customview-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\6150278165be4c7aa79070fbd01ce378\swiperefreshlayout-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\b5c9815f6037bee6bd19b32aca8d7866\asynclayoutinflater-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\3ae5ae42bea64813a9af0e49323375c9\core-1.0.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\f9869ca2a3b73745c225f7c5442faeb9\cursoradapter-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\6c4e113f034631a3b161a84e11b55998\cardview-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\cf92b4b7f2c55957fd835214c2413b05\versionedparcelable-1.0.0-beta01\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\4c6ac19e8afaa9f4886efcfaaf73a975\documentfile-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\8dad869bfdc6d8c41cf2932ebe56494b\localbroadcastmanager-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\771c138fb9a06ad78e868476d0d83b78\print-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\5b383dc3fd5b5070e02213109b0a16af\interpolator-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\20f77d2420d7bd69ff46c71fc39defd4\lifecycle-runtime-2.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\379bcbd9870ec521a85f275792e94c7f\lifecycle-viewmodel-2.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\b0e6cd12ab915d9ffbfeaaceda6ef7b5\lifecycle-livedata-core-2.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\cb01a9bdec03224ada7f2d9cb23c830c\core-runtime-2.0.0-beta01\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:17:1-67:12
+INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:17:1-67:12
+INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:17:1-67:12
+	package
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:19:5-46
+		INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:18:5-51
+	xmlns:android
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.wifi.rtt
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:23:5-62
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:23:19-59
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:26:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:28:5-78
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:29:5-78
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:29:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:30:5-78
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:30:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:31:22-78
+application
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:34:5-66:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\A\.gradle\caches\transforms-2\files-2.1\79874ac7b472dbcc925cf1fa02538be6\constraintlayout-2.0.0-alpha1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\A\.gradle\caches\transforms-2\files-2.1\79874ac7b472dbcc925cf1fa02538be6\constraintlayout-2.0.0-alpha1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\dfede6d08b30c4710d234467b391d9d6\material-1.0.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\dfede6d08b30c4710d234467b391d9d6\material-1.0.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\3ae5ae42bea64813a9af0e49323375c9\core-1.0.0-beta01\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\3ae5ae42bea64813a9af0e49323375c9\core-1.0.0-beta01\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\cf92b4b7f2c55957fd835214c2413b05\versionedparcelable-1.0.0-beta01\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\cf92b4b7f2c55957fd835214c2413b05\versionedparcelable-1.0.0-beta01\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\3ae5ae42bea64813a9af0e49323375c9\core-1.0.0-beta01\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:39:9-35
+	android:label
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:37:9-41
+	android:roundIcon
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:38:9-54
+	android:icon
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:36:9-43
+	android:allowBackup
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:35:9-35
+	android:theme
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:40:9-46
+activity#com.example.android.wifirttscan.MainActivity
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:42:9-52:20
+	android:label
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:44:13-45
+	android:exported
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:46:13-36
+	android:theme
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:45:13-50
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:43:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:50:27-74
+activity#com.example.android.wifirttscan.LocationPermissionRequestActivity
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:54:9-59:20
+	android:parentActivityName
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:57:13-55
+	android:label
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:56:13-79
+	android:theme
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:58:13-50
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:55:13-62
+activity#com.example.android.wifirttscan.AccessPointRangingResultsActivity
+ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:61:9-65:20
+	android:parentActivityName
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:63:13-55
+	android:label
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:62:13-80
+	android:theme
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:64:13-50
+	android:name
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml:61:19-68
+uses-sdk
+INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\A\.gradle\caches\transforms-2\files-2.1\79874ac7b472dbcc925cf1fa02538be6\constraintlayout-2.0.0-alpha1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\A\.gradle\caches\transforms-2\files-2.1\79874ac7b472dbcc925cf1fa02538be6\constraintlayout-2.0.0-alpha1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\dfede6d08b30c4710d234467b391d9d6\material-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\dfede6d08b30c4710d234467b391d9d6\material-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\e3b9afe9db518106859d1f4e5cc90261\appcompat-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\e3b9afe9db518106859d1f4e5cc90261\appcompat-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\1d5fb5272953866d85fd57f38eed9a6d\fragment-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\1d5fb5272953866d85fd57f38eed9a6d\fragment-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\8359157458ce0c2d0efe8016b0279bcd\vectordrawable-animated-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\8359157458ce0c2d0efe8016b0279bcd\vectordrawable-animated-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\a5c270a0df62ff154833e63b21241244\recyclerview-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\a5c270a0df62ff154833e63b21241244\recyclerview-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\d12e582391c1b1daf027c8a3c325f886\legacy-support-core-ui-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\d12e582391c1b1daf027c8a3c325f886\legacy-support-core-ui-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\b954500195b9d92077bcd451a78b8bf4\legacy-support-core-utils-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\b954500195b9d92077bcd451a78b8bf4\legacy-support-core-utils-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\e785fe7d1d0af79a0988af1da8f9ee15\vectordrawable-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\e785fe7d1d0af79a0988af1da8f9ee15\vectordrawable-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\f93b2ac68aa48975eaaaad4497879c1c\transition-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\f93b2ac68aa48975eaaaad4497879c1c\transition-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\80f6a620d58bce7f623119438a164ba7\loader-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\80f6a620d58bce7f623119438a164ba7\loader-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\1407617b5ad3f29a1fb4fe7e83583238\viewpager-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\1407617b5ad3f29a1fb4fe7e83583238\viewpager-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\3d011a9727d46a2a6008b23da50c0ecb\coordinatorlayout-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\3d011a9727d46a2a6008b23da50c0ecb\coordinatorlayout-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\daea5ee3a8942e5c0b815d94bbb64669\drawerlayout-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\daea5ee3a8942e5c0b815d94bbb64669\drawerlayout-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\ae9e6f21c81f638fbb52b73a1200653e\slidingpanelayout-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\ae9e6f21c81f638fbb52b73a1200653e\slidingpanelayout-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\6cf27910fbea420a42a601f0fce69fd5\customview-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\6cf27910fbea420a42a601f0fce69fd5\customview-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\6150278165be4c7aa79070fbd01ce378\swiperefreshlayout-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\6150278165be4c7aa79070fbd01ce378\swiperefreshlayout-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\b5c9815f6037bee6bd19b32aca8d7866\asynclayoutinflater-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\b5c9815f6037bee6bd19b32aca8d7866\asynclayoutinflater-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\3ae5ae42bea64813a9af0e49323375c9\core-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\3ae5ae42bea64813a9af0e49323375c9\core-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\f9869ca2a3b73745c225f7c5442faeb9\cursoradapter-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\f9869ca2a3b73745c225f7c5442faeb9\cursoradapter-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\6c4e113f034631a3b161a84e11b55998\cardview-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\6c4e113f034631a3b161a84e11b55998\cardview-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\cf92b4b7f2c55957fd835214c2413b05\versionedparcelable-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\cf92b4b7f2c55957fd835214c2413b05\versionedparcelable-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\4c6ac19e8afaa9f4886efcfaaf73a975\documentfile-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\4c6ac19e8afaa9f4886efcfaaf73a975\documentfile-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\8dad869bfdc6d8c41cf2932ebe56494b\localbroadcastmanager-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\8dad869bfdc6d8c41cf2932ebe56494b\localbroadcastmanager-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\771c138fb9a06ad78e868476d0d83b78\print-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\771c138fb9a06ad78e868476d0d83b78\print-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\5b383dc3fd5b5070e02213109b0a16af\interpolator-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\5b383dc3fd5b5070e02213109b0a16af\interpolator-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\20f77d2420d7bd69ff46c71fc39defd4\lifecycle-runtime-2.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\20f77d2420d7bd69ff46c71fc39defd4\lifecycle-runtime-2.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\379bcbd9870ec521a85f275792e94c7f\lifecycle-viewmodel-2.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\379bcbd9870ec521a85f275792e94c7f\lifecycle-viewmodel-2.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\b0e6cd12ab915d9ffbfeaaceda6ef7b5\lifecycle-livedata-core-2.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\b0e6cd12ab915d9ffbfeaaceda6ef7b5\lifecycle-livedata-core-2.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\cb01a9bdec03224ada7f2d9cb23c830c\core-runtime-2.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\A\.gradle\caches\transforms-2\files-2.1\cb01a9bdec03224ada7f2d9cb23c830c\core-runtime-2.0.0-beta01\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\A\Desktop\Camera_WIFI\WifiDemo\Application\src\main\AndroidManifest.xml

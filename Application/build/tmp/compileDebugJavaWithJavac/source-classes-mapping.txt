@@ -1,0 +1,18 @@
+com/example/android/wifirttscan/MyAdapter.java
+ com.example.android.wifirttscan.MyAdapter
+ com.example.android.wifirttscan.MyAdapter$ScanResultClickListener
+ com.example.android.wifirttscan.MyAdapter$ViewHolderHeader
+ com.example.android.wifirttscan.MyAdapter$ViewHolderItem
+com/example/android/wifirttscan/BuildConfig.java
+ com.example.android.wifirttscan.BuildConfig
+com/example/android/wifirttscan/LocationPermissionRequestActivity.java
+ com.example.android.wifirttscan.LocationPermissionRequestActivity
+com/example/android/wifirttscan/AccessPointRangingResultsActivity.java
+ com.example.android.wifirttscan.AccessPointRangingResultsActivity
+ com.example.android.wifirttscan.AccessPointRangingResultsActivity$1
+ com.example.android.wifirttscan.AccessPointRangingResultsActivity$RttRangingResultCallback
+ com.example.android.wifirttscan.AccessPointRangingResultsActivity$RttRangingResultCallback$1
+com/example/android/wifirttscan/MainActivity.java
+ com.example.android.wifirttscan.MainActivity
+ com.example.android.wifirttscan.MainActivity$1
+ com.example.android.wifirttscan.MainActivity$WifiScanReceiver
